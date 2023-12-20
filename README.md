@@ -1,1 +1,2 @@
-# faq-accordion
+A simple FAQ accordion made with JavaScript
+![](./faq.jpg)
